@@ -1,6 +1,6 @@
 package com.crnuts.wrapperClass;
 
-public class Demo {
+public class WrapperClasses {
 
 	public static void main(String[] args) {
 		System.out.println("-----------Ques:1,7 & 8------------");
